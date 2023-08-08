@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:22:00.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VyH71hn6NrVMiGahRbcN" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:22:55.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gUbZSnid0P7VYV6_t3XJ" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
     <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-11" value="익위승양탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-13" value="71삼기탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-15" target="tAni9685Vxz2iSg4acQR-17">
