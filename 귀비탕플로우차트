@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:53:24.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DxiR9y3oblG3Q7Y6V-9b" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:57:30.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RRz7HYn8lhyR0YoGelWq" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
     <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,10 +148,12 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-48" target="tAni9685Vxz2iSg4acQR-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-48" value="성심산" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-53" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <object label="성심산" 생맥산함유="" id="tAni9685Vxz2iSg4acQR-48">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="170" y="610" width="66" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="tAni9685Vxz2iSg4acQR-53" value="청심연자음" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="660" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-54" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -163,7 +165,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-55" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="560" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-61" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-61" value="청심연자탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="520" width="90" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-63" value="태음인" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
