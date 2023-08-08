@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:05:32.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nnHsKOzd3MYWObVOIebg" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:17:01.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ek7Tswu5aeX_8BjOz5va" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
-    <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-54" target="tAni9685Vxz2iSg4acQR-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-54" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-54" value="사물안신탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-55" target="tAni9685Vxz2iSg4acQR-54">
@@ -168,11 +168,11 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-55" value="황련청심음" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="560" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-61" value="청심연자탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-61" value="청심연자탕&lt;br&gt;열다한소탕&lt;br&gt;태음조위탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="520" width="90" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-63" value="태음인" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="27" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-65" target="tAni9685Vxz2iSg4acQR-37">
           <mxGeometry relative="1" as="geometry" />
@@ -186,7 +186,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-71" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;귀비탕의 핵심? 원지!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-73" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-73" value="천왕보심단" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-75" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;정설&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
