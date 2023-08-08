@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:38:23.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FFKUbeapbVlfyFeKn_5L" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:41:22.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="K5wuFeTyTtk_2jZjdNkM" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
     <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-38" target="tAni9685Vxz2iSg4acQR-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-38" value="자음건비탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-40" target="tAni9685Vxz2iSg4acQR-46">
@@ -128,10 +128,12 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-41" target="tAni9685Vxz2iSg4acQR-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-41" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-43" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <object label="복령보심탕" 구성="삼소음+사물탕" id="tAni9685Vxz2iSg4acQR-41">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="110" y="400" width="66" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="tAni9685Vxz2iSg4acQR-43" value="이신교제단&lt;br&gt;(심,비,신)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-46" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
