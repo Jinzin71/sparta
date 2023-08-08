@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:10:43.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PymWJi0kb1JR5VUzBwtg" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:11:41.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="R7OS7b_VVbBbyQhylZ1Z" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
-    <mxGraphModel dx="552" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="524" y="400" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAni9685Vxz2iSg4acQR-7" value="귀비탕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAni9685Vxz2iSg4acQR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-11" target="tAni9685Vxz2iSg4acQR-13">
@@ -136,6 +136,9 @@
         <mxCell id="tAni9685Vxz2iSg4acQR-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-48" target="tAni9685Vxz2iSg4acQR-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tAni9685Vxz2iSg4acQR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAni9685Vxz2iSg4acQR-48" target="tAni9685Vxz2iSg4acQR-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="66" height="30" as="geometry" />
         </mxCell>
@@ -150,6 +153,12 @@
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-55" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="560" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAni9685Vxz2iSg4acQR-61" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="520" width="90" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tAni9685Vxz2iSg4acQR-63" value="태음인" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
