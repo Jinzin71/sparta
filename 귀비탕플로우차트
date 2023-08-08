@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:04:59.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I75SpJghBpiHnUftYGWr" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:05:32.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nnHsKOzd3MYWObVOIebg" version="21.6.6" type="github">
   <diagram name="페이지-1" id="oTuDMA2sezBmTwYFYLIw">
     <mxGraphModel dx="797" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAni9685Vxz2iSg4acQR-79" value="십전대보탕&lt;br&gt;녹용대보탕&lt;br&gt;가미대보탕&lt;br&gt;독활기생탕/만금탕&lt;br&gt;가미십전탕/탁리소독음&lt;br&gt;가미팔중탕&lt;br&gt;위풍탕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="402" y="590" width="128" height="210" as="geometry" />
+          <mxGeometry x="383" y="585" width="128" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ifMNHBsOkuJwydqSR1Gi-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;계지탕생리&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
